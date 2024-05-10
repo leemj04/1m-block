@@ -104,7 +104,7 @@ static u_int32_t print_pkt (struct nfq_data *tb) {
 char num;
 std::set<std::string> host;
 
-char *strnstr(const char *s, char *find, int slen) {
+char *strnstr(const char *s, const char *find, int slen) {
 	char c, sc;
 	int len = strlen(find);
 
