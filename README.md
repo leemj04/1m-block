@@ -5,4 +5,6 @@
 ![img](check-memory-by-top-command.png)
 
 # check time for searching block site
-![img](check-time.png)
+<p align="center">
+  <img src="check-time.png">
+</p>
